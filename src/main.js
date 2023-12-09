@@ -1,4 +1,4 @@
-import { fetchImages } from './js/gallary-api';
+import { fetchImages } from './js/pixabay-api';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';

@@ -102,7 +102,7 @@ body {
   padding: 20px;
   margin-top: 20px;
   font-size: 20px;
-  background-color: rgba(63, 53, 142, 0.867);
+  background-color: rgba(39, 20, 186, 0.867);
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -111,7 +111,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: rgba(63, 53, 142, 0.867);
+  background-color: rgba(39, 20, 186, 0.867);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -134,7 +134,7 @@ body {
 
 .search-form button {
   padding: 5px 15px;
-  background-color: rgb(10, 157, 30);
+  background-color: rgb(0, 173, 30);
   color: rgb(255, 255, 255);
   border: none;
   border-radius: 3px;
